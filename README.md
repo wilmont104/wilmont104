@@ -18,6 +18,8 @@ et aux services réseau.
 - Réseaux : TCP/IP, DHCP, DNS
 - Securité : pare-feu, Antivirus
 - Virtualisation : VirtualBox / VMware
+- Telephonie sur IP
+- Supervision
   
 
 ---
