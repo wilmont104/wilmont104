@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Bonjour, je suis [SONTIA MBONING GABY WILONE]
 
-<!--
-**wilmont104/wilmont104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en **Licence Administration Réseaux & Multimédia**  
+📍 Formation après un **BTS**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos de moi
+Je me forme à l’administration **systèmes et réseaux** et je réalise
+des **projets personnels (labs)** afin de renforcer mes compétences pratiques.
+Je m’intéresse particulièrement aux environnements Linux, à la virtualisation
+et aux services réseau.
+
+---
+
+## 🛠️ Compétences techniques
+- Administration Linux / Windows (bases)
+- Réseaux : TCP/IP, DHCP, DNS
+- Securité : pare-feu, Antivirus
+- Virtualisation : VirtualBox / VMware
+  
+
+---
+
+## 📫 Me contacter
+- 💼 LinkedIn : www.linkedin.com/in/gaby-wilone-sontia-mboning-40063637a
+
