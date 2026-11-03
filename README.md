@@ -59,3 +59,4 @@ Je m'intéresse particulièrement aux environnements Linux, à la virtualisation
 ## 📫 Me contacter
 
 - 💼 LinkedIn : [Gaby Wilone Sontia Mboning](https://www.linkedin.com/in/gaby-wilone-sontia-mboning-40063637a)
+- 📧 Email : [montwil334@gmail.com](mailto:montwil334@gmail.com)
